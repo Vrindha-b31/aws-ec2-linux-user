@@ -20,20 +20,3 @@ Launch an EC2 instance, create a new Linux user, and set up secure SSH key-based
 Vrindha Prakash
 
 
-
-## Screenshots
-
-### EC2 Instance
-![EC2](screenshots/ec2-instance.png)
-
-### SSH as ec2-user
-![SSH ec2-user](screenshots/ssh-ec2-user.png)
-
-### User Creation (devuser)
-![adduser](screenshots/user-creation.png)
-
-### SSH as devuser
-![SSH devuser](screenshots/ssh-devuser.png)
-
-### GitHub Repo
-![GitHub](screenshots/github.png)
